@@ -1,2 +1,2 @@
 # DSNUNet
-The pytorch implementation for "Forest-CD: Forest Change Detection Network Based on VHR Images".
+The pytorch implementation for "DSNUNet: An Improved Forest Change Detection Network by Combining Sentinel-1 and Sentinel-2 Images".
